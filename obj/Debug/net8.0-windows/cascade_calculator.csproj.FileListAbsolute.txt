@@ -1,0 +1,16 @@
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\bin\Debug\net8.0-windows\cascade_calculator.exe
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\bin\Debug\net8.0-windows\cascade_calculator.deps.json
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\bin\Debug\net8.0-windows\cascade_calculator.runtimeconfig.json
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\bin\Debug\net8.0-windows\cascade_calculator.dll
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\bin\Debug\net8.0-windows\cascade_calculator.pdb
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.Form1.resources
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.AssemblyInfoInputs.cache
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.AssemblyInfo.cs
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.dll
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\refint\cascade_calculator.dll
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.pdb
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\cascade_calculator.genruntimeconfig.cache
+C:\Users\Роман\Desktop\информатика\работа\cascade_calculator\obj\Debug\net8.0-windows\ref\cascade_calculator.dll
